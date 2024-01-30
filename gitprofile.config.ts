@@ -176,7 +176,7 @@ const CONFIG = {
     description : 'Passionate about technology and currently pursuing a Masters in Computer Science Engineering at the University of Colorado, Boulder. Proficient in Java, Python, SQL, Tableau, Jupyter Notebook, Excel, Android Development, and Google Cloud Platform, my skills bridge Software Engineering and Data Science. I specialize in crafting efficient software solutions and optimizing data processing for actionable insights. Experienced in leading projects with a holistic approach, I thrive on transparent communication and continuous learning. Whether it iss software applications, end-to-end ML pipelines, or data analytics, I bring a versatile perspective. Actively seeking roles in Software Engineering, Data Engineering, Data Analysis, or Machine Learning from May 2024. Lets connect via email to explore opportunities together!',
   },
   googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-FTZLRQRRZN', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
