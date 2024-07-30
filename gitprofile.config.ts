@@ -110,6 +110,14 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Rule4',
+      position: 'AI Developer Intern',
+      from: 'October 2023',
+      to: 'May 2024',
+      companyLink: '',
+      body: 'Led an end-to-end project using Python and Azure to preprocess large meeting transcripts via an ETL pipeline, enhancing data with NLP and cybersecurity taxonomy, cutting manual processing time by 60%. By implementing the Llama2 model for summarization and extracting critical cybersecurity risks, we improved risk detection accuracy by 20%. Results were shared via the Slack API, enabling team feedback that increased system accuracy by 15%.',
+    },
+    {
       company: 'University of Colorado Boulder',
       position: 'Graduate Student Assistant - Grader',
       from: 'January 2024',
@@ -173,7 +181,7 @@ const CONFIG = {
     limit: 3, // How many articles to display. Max is 10.
   },
   aboutMe : {
-    description : 'Passionate about technology and currently pursuing a Masters in Computer Science Engineering at the University of Colorado, Boulder. Proficient in Java, Python, SQL, Tableau, Jupyter Notebook, Excel, Android Development, and Google Cloud Platform, my skills bridge Software Engineering and Data Science. I specialize in crafting efficient software solutions and optimizing data processing for actionable insights. Experienced in leading projects with a holistic approach, I thrive on transparent communication and continuous learning. Whether it iss software applications, end-to-end ML pipelines, or data analytics, I bring a versatile perspective. Actively seeking roles in Software Engineering, Data Engineering, Data Analysis, or Machine Learning from May 2024. Lets connect via email to explore opportunities together!',
+    description : 'Passionate about technology and recently graduated with a Master's in Computer Science Engineering from the University of Colorado, Boulder. Proficient in Python, SQL, Azure, Tableau, Jupyter Notebook, Excel, Java, Android Development, and Google Cloud Platform, my skills bridge Software Engineering and Data Science. I specialize in crafting efficient software solutions and optimizing data processing for actionable insights. Experienced in leading projects with a holistic approach, I thrive on transparent communication and continuous learning. I bring a versatile perspective, whether it is software applications, end-to-end ML pipelines, or data analytics. Actively seeking roles in Data Analyst, Data Engineering, Machine Learning, and Software Engineering. Let's connect via email to explore opportunities together!',
   },
   googleAnalytics: {
     id: 'G-FTZLRQRRZN', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
